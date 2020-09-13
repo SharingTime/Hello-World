@@ -1,0 +1,7 @@
+git install info
+1.download git from its website
+2.install it--"git for windows"
+3.create user.name and user.email in git.bash
+4.create ssh public and private code
+5.update your ssh public code at github.com
+6.then, you can git clone projects from others' repository
